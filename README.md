@@ -124,7 +124,8 @@ You can also use a service like [Expo's standalone builds](https://docs.expo.io/
 If you want to build and deploy your app yourself, you'll need to eject from CRNA and use Xcode and Android Studio.
 
 This is usually as simple as running `yarn eject` in your project, which will walk you through the process. Make sure to install 
-`react-native-cli` and follow the [native code getting started guide for React Native](https://facebook.github.io/react-native/docs/getting-started.html).
+`expo-cli` and follow the [native code getting started guide for React Native](https://facebook.github.io/react-native/docs/getting-started.
+html).
 
 #### Should I Use ExpoKit?
 
